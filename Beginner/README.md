@@ -1,1 +1,1 @@
-All of the projects from day 1 - 17
+All of the projects from day 1 - 14
