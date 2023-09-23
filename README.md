@@ -14,4 +14,9 @@ The projects made throughout the course
   - Guess the number (Day 12)
   - Higher or lower (Day 14)
 
-# Days 15 - 31: Intermediate
+# Days 15 - 39: Intermediate
+  - Automating E-mails (Day 32)
+  - Working with API's (Day 33)
+  - Quiz GUI (Day 34)
+  - Post & Put (Day 37)
+  - Flight Web Scaping (Day 39)
